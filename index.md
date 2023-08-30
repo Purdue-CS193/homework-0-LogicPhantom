@@ -1,4 +1,4 @@
-#Homework is at the bottom
+# Homework is at the bottom
 
 ## Welcome to GitHub Pages
 
@@ -41,8 +41,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-#Jake's First CS193 Homework
+# Jake's First CS193 Homework
 
--Informative
--Good Guide for Class
--Not a lot of work
+- Informative
+- Good Guide for Class
+- Not a lot of work
